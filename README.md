@@ -1,5 +1,5 @@
 # **Minecraft Dungeons Cursor Theme**
-## After searching for a good cursor resembling that of the one from the game Minecraft Dungeons, I have found none that do it properly. So, I have taken the liberty to datamine and compile one myself.
+### After searching for a good cursor resembling that of the one from the game Minecraft Dungeons, I have found none that do it properly. So, I have taken the liberty to datamine and compile one myself.
 ![Promo Image](https://cdn.bret06.net/img/cursor-promo.png)
 
 # **How To Download**
