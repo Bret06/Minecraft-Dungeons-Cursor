@@ -1,0 +1,46 @@
+;Minecraft Dungeons Cursor Theme Compiled by Bret06 - TEXTURES WERE NOT MADE BY ME, CREATED BY MOJANG STUDIOS
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, 
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"pointer.cur"
+"hover.cur"
+"grab.cur"
+"buffer.cur"
+
+[Strings]
+CUR_DIR                    = "Cursors\Minecraft Dungeons Cursor Theme"
+SCHEME_NAME        = "Minecraft Dungeons Cursor Theme"
+pointer		= "pointer.cur"
+help		= "hover.cur"
+work		= "buffer.cur"
+busy		= "buffer.cur"
+
+cross		= ""
+text		= ""
+hand		= ""
+unavailiable	= ""
+
+vert		= "grab.cur"
+horz		= "grab.cur"
+dgn1		= "grab.cur"
+dgn2		= "grab.cur"
+move		= "grab.cur"
+alternate	= "grab.cur"
+link		= "hover.cur"
+pin		= "hover.cur"
+person		= "hover.cur"
