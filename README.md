@@ -10,3 +10,6 @@
 ### **5.** Click "Additional mouse settings"
 ### **6.** Inside of the new window that appeared select "Pointers"
 ### **7.** Click the dropdown, and select "Minecraft Dungeons Cursor Theme" (THERE WILL BE FOUR ERRORS JUST CLICK THROUGH THEM) and press apply.
+
+# **Website**
+### If you want to check out my other projects feel free to check out my website! https://bret06.net
